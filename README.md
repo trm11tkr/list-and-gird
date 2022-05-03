@@ -1,16 +1,18 @@
 # list_and_grid
 
 Sample application to switch between list and grid
+# Learning
+- State management by switching
+- Grid Layout
+- Combine list
 
-## Getting Started
+example)
+`Row(
+  children: [Container()] + [Text()]
+)`
 
-This project is a starting point for a Flutter application.
+# Operation
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/89247188/166432413-e1531c7e-07e8-4e74-be41-0d0755fceffa.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
